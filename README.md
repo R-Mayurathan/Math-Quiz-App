@@ -1,1 +1,1 @@
-# Math-Quiz-App
+# Quiz_game_server
